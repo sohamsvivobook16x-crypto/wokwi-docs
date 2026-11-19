@@ -19,7 +19,7 @@ Analog temperature sensor: NTC (negative temperature coefficient) thermistor.
 
 | Name        | Description                            | Default value |
 | ----------- | -------------------------------------- | ------------- |
-| temperature | Initial temperature value (celsius)    | "24"          |
+| temperature | Initial temperature value (celsius)    | "25"          |
 | beta        | The beta coefficient of the thermistor | "3950"        |
 
 ## Reading the temperature
